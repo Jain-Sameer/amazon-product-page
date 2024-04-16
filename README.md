@@ -8,7 +8,7 @@
 This is my 2nd project on my journey to become a `Full Stack Developer`.
 
 
-* <a href="">Check it Out!</a>
+* <a href="https://jain-sameer.github.io/amazon-product-page/">Check it Out!</a>
 
 * Target Screenshot
 
